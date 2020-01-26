@@ -20,15 +20,13 @@ function App() {
         <p style = {{
             fontFamily: 'a-song-for-jennifer'
         }}> A song for Jennifer font</p>
-        <p style = {{
-            fontFamily: 'Kahlesv2'
-        }}> Kahless font</p>
+
         <p style = {{
             fontFamily: 'Open-24-Display-St'
         }}> Open-24-Display-St font</p>
 
 
-        <MyDiv> Here is MyDiv</MyDiv>
+        <MyDiv> Here is Kahless font in MyDiv</MyDiv>
 
     </div>
   );
