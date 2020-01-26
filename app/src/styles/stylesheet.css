@@ -11,8 +11,28 @@
 
 }
 
-h1, h2 {
-    text-align: center;
-    font-family: climbing_plantregular; /* here */
+@font-face {
+    font-family: 'a-song-for-jennifer';
+    src: url('../1001FreeFonts/a-song-for-jennifer/a-song-for-jennifer.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
+
+
+@font-face {
+    font-family: 'Kahlesv2';
+    src: url('../1001FreeFonts/kahless/Kahlesv2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Open-24-Display-St';
+    src: url('../1001FreeFonts/open-24-display/Open-24-Display-St.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 
 }
