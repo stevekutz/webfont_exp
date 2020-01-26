@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+    font-family: 'Hanged-Letters';
+    src: url('./hanging-letters/Hanged-Letters.ttf') format('truetype');
+}
